@@ -117,7 +117,11 @@
 				<th>车型</th>
 				<th>排量(cc)</th>
 				<th>改装程度</th>
+				<th>轮胎</th>
+				<th>气温 (℃)</th>
+				<th class="black">尾速</th>
 				<th class="black">积分</th>
+				<th>链接</th>
 			</thead>
 
 			<tbody>
@@ -258,7 +262,13 @@
     <td>{{v.hp_content}}</td>
     <td>{{v.Powertrain}}</td>
     <td class="txtcenter">{{v.mods}}</td>
+    <td>{{v.tyre}}</td>
+    <td class="txtcenter">{{v.temperature}}</td>
+    <td class="black">{{v.limit}}</td>
     <td class="black">{{v.accelerate}}</td>
+    <td>
+      <a href="https://www.bilibili.com/video/{{v.BID}}" target="_blank">{{v.Btitle}}</a>
+        </td>
   </tr>
   {{/each}}
 
