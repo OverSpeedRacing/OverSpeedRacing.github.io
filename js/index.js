@@ -75,7 +75,7 @@ $(function () {
 
   //切换榜单
   $('.season').on('change',function(){
-    var season = $(this).val(),
+    var season = $(this).val()
     $.ajax({
       url: './speeds/speed_'+season+'.json?v=202005071640',
       async: false,
