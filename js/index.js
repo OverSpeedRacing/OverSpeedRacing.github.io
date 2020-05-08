@@ -1,6 +1,6 @@
 $(function () {
 
-  var jsonData
+  var jsonData,ver='202005071640'
   function setTable(arr) {
     var htmlStr = template('tb', {
       data: arr
@@ -18,7 +18,7 @@ $(function () {
   }
   //获取json数据
   $.ajax({
-    url: './speed.json?v=202005071640',
+    url: './speed.json?v='+ver,
     async: false,
     success: function (res) {
       // console.log(res);
@@ -75,9 +75,16 @@ $(function () {
 
   //切换榜单
   $('.season').on('change',function(){
-    var season = $(this).val()
+    var season = $(this).val(),
+    speed_url
+
+    if(season == 'latest'){
+      speed_url='./speed.json?v='+ver
+    }else{
+      speed_url='./speeds/speed_'+season+'.json?v='+ver
+    }
     $.ajax({
-      url: './speeds/speed_'+season+'.json?v=202005071640',
+      url: speed_url,
       async: false,
       success: function (res) {
         // console.log(res);
