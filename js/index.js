@@ -77,7 +77,7 @@ $(function () {
   $('.season').on('change',function(){
     var season = $(this).val(),
     $.ajax({
-      url: './speeds/speed_'.season.'.json?v=202005071640',
+      url: './speeds/speed_'+season+'.json?v=202005071640',
       async: false,
       success: function (res) {
         // console.log(res);
