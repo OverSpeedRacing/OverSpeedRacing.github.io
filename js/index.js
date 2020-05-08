@@ -73,6 +73,20 @@ $(function () {
     setTable(arr)
   })
 
+  //切换榜单
+  $('.season').on('change',function(){
+    var season = $(this).val(),
+    $.ajax({
+      url: './speeds/speed_'.season.'.json?v=202005071640',
+      async: false,
+      success: function (res) {
+        // console.log(res);
+        jsonData = res
+      }
+    })
+    setTable(jsonData)
+  })
+
   ;(function() {
     var width,
       height,
