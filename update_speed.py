@@ -12,13 +12,13 @@ with open('speed.json', 'r', encoding='utf-8') as f:
 
 name2speed = dict()
 for speed in speeds:
-    name2speed[speed['car']] = speed
+    name2speed[speed['name']] = speed
 
 if u_name in name2speed:
     name2speed[u_name]['speed'] = u_speed
 else:
     name2speed[u_name] = {
-                "car": u_name,
+                "name": u_name,
                 "BID": "",
                 "Btitle": "",
                 "hp": "",

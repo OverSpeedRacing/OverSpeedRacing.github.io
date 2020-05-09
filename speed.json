@@ -1,6 +1,6 @@
 [
     {
-        "car": "匡鸡",
+        "name": "匡鸡",
         "BID": "",
         "Btitle": "",
         "hp": "Yamaha R3",
@@ -16,7 +16,7 @@
         "limit": ""
     },
     {
-        "car": "杨泽",
+        "name": "杨泽",
         "BID": "",
         "Btitle": "",
         "hp": "KTM RC390",
@@ -32,7 +32,7 @@
         "limit": ""
     },
     {
-        "car": "许老师",
+        "name": "许老师",
         "BID": "",
         "Btitle": "",
         "hp": "Yamaha R3",
@@ -48,7 +48,7 @@
         "limit": ""
     },
     {
-        "car": "子豪",
+        "name": "子豪",
         "BID": "",
         "Btitle": "",
         "hp": "Yamaha R3",
@@ -64,7 +64,7 @@
         "limit": ""
     },
     {
-        "car": "刘祥",
+        "name": "刘祥",
         "BID": "",
         "Btitle": "",
         "hp": "Yamaha R3",
@@ -80,7 +80,7 @@
         "limit": ""
     },
     {
-        "car": "温总",
+        "name": "温总",
         "BID": "",
         "Btitle": "",
         "hp": "Yamaha R25",
@@ -96,7 +96,7 @@
         "limit": ""
     },
     {
-        "car": "上官",
+        "name": "上官",
         "BID": "",
         "Btitle": "",
         "hp": "HONDA CBR250RR",
@@ -112,7 +112,7 @@
         "limit": ""
     },
     {
-        "car": "傻王爷DQ",
+        "name": "傻王爷DQ",
         "BID": "",
         "Btitle": "",
         "hp": "Yamaha R25",
@@ -128,7 +128,7 @@
         "limit": ""
     },
     {
-        "car": "韩伟鹏",
+        "name": "韩伟鹏",
         "BID": "",
         "Btitle": "",
         "hp": "Kawasaki Ninja250",
@@ -144,7 +144,7 @@
         "limit": ""
     },
     {
-        "car": "邵迪",
+        "name": "邵迪",
         "BID": "",
         "Btitle": "",
         "hp": "Yamaha R3",
@@ -160,7 +160,7 @@
         "limit": ""
     },
     {
-        "car": "刘彬",
+        "name": "刘彬",
         "BID": "",
         "Btitle": "",
         "hp": "Kawasaki Ninja250",
@@ -176,7 +176,7 @@
         "limit": ""
     },
     {
-        "car": "张志为",
+        "name": "张志为",
         "BID": "",
         "Btitle": "",
         "hp": "Yamaha R3",
@@ -192,7 +192,7 @@
         "limit": ""
     },
     {
-        "car": "梅其傲",
+        "name": "梅其傲",
         "BID": "",
         "Btitle": "",
         "hp": "Yamaha R6",
@@ -208,7 +208,7 @@
         "limit": ""
     },
     {
-        "car": "周鸡",
+        "name": "周鸡",
         "BID": "",
         "Btitle": "",
         "hp": "Yamaha R3",
@@ -224,7 +224,7 @@
         "limit": ""
     },
     {
-        "car": "小刚",
+        "name": "小刚",
         "BID": "",
         "Btitle": "",
         "hp": "Yamaha R3",
