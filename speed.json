@@ -1,5 +1,21 @@
 [
     {
+        "name": "许老师",
+        "BID": "",
+        "Btitle": "",
+        "hp": "Yamaha R3",
+        "hp_content": "Yamaha R3",
+        "Powertrain": "321",
+        "speed": "61.61",
+        "mods": "1",
+        "tyre": "大闪电",
+        "temperature": "",
+        "lv": "B",
+        "time": "",
+        "accelerate": "25",
+        "limit": ""
+    },
+    {
         "name": "匡鸡",
         "BID": "",
         "Btitle": "",
@@ -12,7 +28,7 @@
         "temperature": "",
         "lv": "B",
         "time": "",
-        "accelerate": "25",
+        "accelerate": "20",
         "limit": ""
     },
     {
@@ -24,22 +40,6 @@
         "Powertrain": "373",
         "speed": "61.98",
         "mods": "0",
-        "tyre": "大闪电",
-        "temperature": "",
-        "lv": "B",
-        "time": "",
-        "accelerate": "20",
-        "limit": ""
-    },
-    {
-        "name": "许老师",
-        "BID": "",
-        "Btitle": "",
-        "hp": "Yamaha R3",
-        "hp_content": "Yamaha R3",
-        "Powertrain": "321",
-        "speed": "62.14",
-        "mods": "1",
         "tyre": "大闪电",
         "temperature": "",
         "lv": "B",
