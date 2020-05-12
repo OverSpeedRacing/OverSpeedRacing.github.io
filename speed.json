@@ -192,6 +192,22 @@
         "limit": ""
     },
     {
+        "name": "思伟",
+        "BID": "",
+        "Btitle": "",
+        "hp": "",
+        "hp_content": "Kawasaki Ninja300",
+        "Powertrain": "296",
+        "speed": "64.41",
+        "mods": "0",
+        "tyre": "大闪电",
+        "temperature": "",
+        "lv": "",
+        "time": "",
+        "accelerate": "3",
+        "limit": ""
+    },
+    {
         "name": "梅其傲",
         "BID": "",
         "Btitle": "",
@@ -204,7 +220,7 @@
         "temperature": "",
         "lv": "C",
         "time": "",
-        "accelerate": "3",
+        "accelerate": "2",
         "limit": ""
     },
     {
@@ -220,7 +236,7 @@
         "temperature": "",
         "lv": "B",
         "time": "",
-        "accelerate": "2",
+        "accelerate": "1",
         "limit": ""
     },
     {
@@ -236,7 +252,7 @@
         "temperature": "",
         "lv": "B",
         "time": "",
-        "accelerate": "1",
+        "accelerate": "",
         "limit": ""
     }
 ]
