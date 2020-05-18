@@ -1,6 +1,6 @@
 $(function () {
 
-  var jsonData,ver='202005131531'
+  var jsonData,ver='202005181531'
   function setTable(arr) {
     var htmlStr = template('tb', {
       data: arr

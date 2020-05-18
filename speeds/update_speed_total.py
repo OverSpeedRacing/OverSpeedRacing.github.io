@@ -11,6 +11,8 @@ total_speeds = dict()
 for fname in json_files:
     with open(fname, 'r', encoding='utf-8') as f:
         for new_speed in json.loads(f.read()):
+            if not new_speed['accelerate'].isdigit():
+                continue
             if new_speed['name'] not in total_speeds:
                 total_speeds[new_speed['name']] = new_speed
             else:
