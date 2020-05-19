@@ -12,7 +12,7 @@
         "temperature": "",
         "lv": "B",
         "time": "",
-        "accelerate": "15",
+        "accelerate": "25",
         "limit": ""
     },
     {
@@ -28,7 +28,7 @@
         "temperature": "",
         "lv": "B",
         "time": "",
-        "accelerate": "25",
+        "accelerate": "20",
         "limit": ""
     },
     {
@@ -44,7 +44,7 @@
         "temperature": "",
         "lv": "B",
         "time": "",
-        "accelerate": "4",
+        "accelerate": "15",
         "limit": ""
     }
 ]
