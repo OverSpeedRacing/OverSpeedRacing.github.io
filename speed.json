@@ -80,6 +80,22 @@
         "limit": ""
     },
     {
+        "name": "子豪",
+        "BID": "",
+        "Btitle": "",
+        "hp": "",
+        "hp_content": "Yamaha R3",
+        "Powertrain": "321",
+        "speed": "61.19",
+        "mods": "0",
+        "tyre": "大闪电",
+        "temperature": "",
+        "lv": "B",
+        "time": "",
+        "accelerate": "10",
+        "limit": ""
+    },
+    {
         "name": "上官",
         "BID": "",
         "Btitle": "",
@@ -92,7 +108,7 @@
         "temperature": "",
         "lv": "A",
         "time": "",
-        "accelerate": "10",
+        "accelerate": "9",
         "limit": ""
     },
     {
@@ -108,22 +124,6 @@
         "temperature": "",
         "lv": "C",
         "time": "",
-        "accelerate": "9",
-        "limit": ""
-    },
-    {
-        "name": "子豪",
-        "BID": "",
-        "Btitle": "",
-        "hp": "",
-        "hp_content": "Yamaha R3",
-        "Powertrain": "321",
-        "speed": "62.79",
-        "mods": "0",
-        "tyre": "大闪电",
-        "temperature": "",
-        "lv": "B",
-        "time": "",
         "accelerate": "8",
         "limit": ""
     },
@@ -134,7 +134,7 @@
         "hp": "",
         "hp_content": "Yamaha R6",
         "Powertrain": "599",
-        "speed": "62.82",
+        "speed": "62.80",
         "mods": "0",
         "tyre": "大闪电",
         "temperature": "",
